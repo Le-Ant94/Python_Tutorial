@@ -1,0 +1,6 @@
+Jim - salesman
+Dwight - salesman/assistant regional manager
+Michael - regional manager
+Pam - receptionist
+Toby - HR
+Angela - accounting
